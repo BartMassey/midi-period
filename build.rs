@@ -1,4 +1,4 @@
-const EXP_FRAC_SCALE: u32 = 1024;
+const EXP_FRAC_SCALE: u32 = 512;
 
 /// This can be moved out of build.rs when floating-point constant
 /// arithmetic is stabilized: looks like Rust 1.81 in a few weeks.
